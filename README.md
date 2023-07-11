@@ -1,2 +1,2 @@
-# pathifnder
-# pathifnder
+# pathfinder
+# pathfinder
